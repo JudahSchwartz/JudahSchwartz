@@ -1,6 +1,6 @@
 👋 Hi, I’m @JudahSchwartz
 
-I'm a Engineering Team Lead at Palo Alto Networks
+I'm a Software Engineering Team Lead at Palo Alto Networks
 
 Currently mostly working with python, but Kotlin is where its at!
 
